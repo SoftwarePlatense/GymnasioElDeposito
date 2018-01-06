@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GimnasioPlatense:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="GimnasioPlatense.war">
+      <element id="artifact" artifact-name="GimnasioPlatense:war exploded" />
+    </root>
+  </artifact>
+</component>
